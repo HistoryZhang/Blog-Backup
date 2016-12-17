@@ -3,7 +3,7 @@ layout: post
 title: "GOOGLE IP"
 date: 2015-04-30 10:02:30 +0800
 comments: true
-categories: 杂谈
+tags: 杂谈
 
 ---
 

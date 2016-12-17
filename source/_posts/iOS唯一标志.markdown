@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "IOS唯一标志"
+title: "iOS唯一标志"
 date: 2014-07-19 21:33:48 +0800
 comments: true
-categories: iOS随笔
+tags: iOS随笔
  
 ---
 # 背景

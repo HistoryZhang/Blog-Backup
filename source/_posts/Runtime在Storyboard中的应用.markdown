@@ -3,7 +3,7 @@ layout: post
 title: "Runtime在Storyboard中的应用"
 date: 2014-09-01 21:11:19 +0800
 comments: true
-categories: iOS随笔
+tags: iOS随笔
 
 ---
 # 正文

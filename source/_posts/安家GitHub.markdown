@@ -3,7 +3,7 @@ layout: post
 title: "安家GitHub"
 date: 2014-07-19 15:03:58 +0800
 comments: true
-categories: 杂谈
+tags: 杂谈
 
 ---
 

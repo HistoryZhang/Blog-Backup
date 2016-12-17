@@ -3,7 +3,7 @@ layout: post
 title: "引入三方库编译错误解决"
 date: 2014-07-27 14:10:28 +0800
 comments: true
-categories: iOS随笔
+tags: iOS随笔
 
 ---
 

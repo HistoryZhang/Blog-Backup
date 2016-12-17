@@ -3,7 +3,7 @@ layout: post
 title: "hidesBottomBarWhenPushed用法"
 date: 2014-08-02 10:12:57 +0800
 comments: true
-categories: iOS随笔
+tags: iOS随笔
 
 ---
 

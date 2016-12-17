@@ -3,7 +3,7 @@ layout: post
 title: "AutoLayout的使用"
 date: 2014-07-20 11:01:35 +0800
 comments: true
-categories: iOS随笔
+tags: iOS随笔
 
 ---
 

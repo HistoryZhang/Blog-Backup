@@ -3,7 +3,7 @@ layout: post
 title: "App内打开AppStore"
 date: 2015-05-19 14:53:17 +0800
 comments: true
-categories: iOS随笔
+tags: iOS随笔
 
 ---
 

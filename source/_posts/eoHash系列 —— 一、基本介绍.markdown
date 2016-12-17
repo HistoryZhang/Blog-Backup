@@ -3,7 +3,7 @@ layout: post
 title: "GeoHash系列 —— 一、基本介绍"
 date: 2015-08-26 09:47:41 +0800
 comments: true
-categories: Geohash系列
+tags: Geohash系列
 
 ---
 

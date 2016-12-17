@@ -3,7 +3,7 @@ layout: post
 title: "iOS汉字转拼音"
 date: 2014-12-12 16:58:02 +0800
 comments: true
-categories: iOS随笔
+tags: iOS随笔
 
 ---
 汉字转拼音之前有很多人用的都是一个拼音库,`pinyin.h`和`pinyin.m`.用着还算方便吧.

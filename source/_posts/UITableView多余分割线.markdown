@@ -3,7 +3,7 @@ layout: post
 title: "UITableView多余分割线"
 date: 2014-12-04 14:35:20 +0800
 comments: true
-categories: iOS随笔
+tags: iOS随笔
 
 ---
 
@@ -13,14 +13,17 @@ categories: iOS随笔
 
 * 设置`UITableView`的`style`为`Group`
 * 实现以下`DataSource`
-		- (CGFloat)tableView:(UITableView *)tableView heightForFooterInSection:(NSInteger)section
-		{
-		    return 0.01f;
-		}
+
+```
+- (CGFloat)tableView:(UITableView *)tableView heightForFooterInSection:(NSInteger)section
+{
+	return 0.01f;
+}
 		
-		- (CGFloat)tableView:(UITableView *)tableView heightForHeaderInSection:(NSInteger)section
-		{
-		    return 0.01f;
-		}
+- (CGFloat)tableView:(UITableView *)tableView heightForHeaderInSection:(NSInteger)section
+{
+	return 0.01f;
+}
+```
 
 整个世界安静了.

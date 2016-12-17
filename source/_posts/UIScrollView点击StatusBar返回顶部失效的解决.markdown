@@ -3,7 +3,7 @@ layout: post
 title: "UIScrollView点击StatusBar返回顶部失效的解决"
 date: 2015-08-21 08:47:45 +0800
 comments: true
-categories: iOS随笔
+tags: iOS随笔
 
 ---
 

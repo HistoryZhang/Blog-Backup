@@ -3,7 +3,7 @@ layout: post
 title: "iOS提交AppStore时描述翻译"
 date: 2014-08-04 20:03:45 +0800
 comments: true
-categories: iOS随笔
+tags: iOS随笔
 
 ---
 

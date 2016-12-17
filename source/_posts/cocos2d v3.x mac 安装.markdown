@@ -3,7 +3,7 @@ layout: post
 title: "cocos2d v3.x mac 安装"
 date: 2014-08-08 20:46:28 +0800
 comments: true
-categories: cocos2d-x
+tags: cocos2d-x
 
 ---
 

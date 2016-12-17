@@ -3,7 +3,7 @@ layout: post
 title: "GeoHash系列 —— 二、算法步骤"
 date: 2015-08-27 16:37:58 +0800
 comments: true
-categories: Geohash系列
+tags: Geohash系列
 
 ---
 

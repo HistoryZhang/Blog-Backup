@@ -3,7 +3,7 @@ layout: post
 title: "Podfile引用第三方库设定版本"
 date: 2015-09-25 08:11:54 +0800
 comments: true
-categories: iOS随笔
+tags: iOS随笔
 
 ---
 

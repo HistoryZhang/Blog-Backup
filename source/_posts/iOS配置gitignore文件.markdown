@@ -3,7 +3,7 @@ layout: post
 title: "iOS配置gitignore文件"
 date: 2014-08-04 22:25:49 +0800
 comments: true
-categories: iOS随笔
+tags: iOS随笔
 
 ---
 

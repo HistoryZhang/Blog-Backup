@@ -3,7 +3,7 @@ layout: post
 title: "XCode自动打包ipa脚本"
 date: 2014-08-11 20:37:31 +0800
 comments: true
-categories: iOS随笔
+tags: iOS随笔
 
 ---
 

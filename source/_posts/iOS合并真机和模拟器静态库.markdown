@@ -3,7 +3,7 @@ layout: post
 title: "iOS合并真机和模拟器静态库"
 date: 2014-08-03 10:48:38 +0800
 comments: true
-categories: iOS随笔
+tags: iOS随笔
 
 ---
 # 前言

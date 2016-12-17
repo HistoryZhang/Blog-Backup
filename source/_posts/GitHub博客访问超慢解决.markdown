@@ -3,7 +3,7 @@ layout: post
 title: "GitHub博客访问超慢解决"
 date: 2014-08-01 23:57:58 +0800
 comments: true
-categories: 杂谈
+tags: 杂谈
 
 ---
 

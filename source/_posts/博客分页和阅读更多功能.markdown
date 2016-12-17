@@ -3,7 +3,7 @@ layout: post
 title: "博客分页和阅读更多功能"
 date: 2014-08-06 23:21:01 +0800
 comments: true
-categories: 杂谈
+tags: 杂谈
 
 ---
 
